@@ -34,10 +34,13 @@ DiplomaNet Study Application is a comprehensive mobile app designed to simplify 
 - Intuitive navigation for a user-friendly experience.
 - Enhance your study sessions with a visually appealing design.
 
+### 7. Built-in Python Compiler
+Execute Python code directly within the app. Experiment with coding, test algorithms, and enhance your programming skills seamlessly.
+
 ## Authentication and Data Management
 - **Firebase Integration**: Securely manage user authentication, including features like login, signup, and password recovery, all powered by Firebase.
 
-## ScreenShots of Some of our Features
+## Screenshots of Some of our Features
 ![Centralized Notes Repository](https://example.com/images/notes_screenshot.png)
 ![Centralized Notes Repository](https://example.com/images/notes_screenshot.png)
 ![Centralized Notes Repository](https://example.com/images/notes_screenshot.png)
