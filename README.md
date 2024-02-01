@@ -41,9 +41,15 @@ Execute Python code directly within the app. Experiment with coding, test algori
 - **Firebase Integration**: Securely manage user authentication, including features like login, signup, and password recovery, all powered by Firebase.
 
 ## Screenshots of Some of our Features
-![Centralized Notes Repository](https://example.com/images/notes_screenshot.png)
-![Centralized Notes Repository](https://example.com/images/notes_screenshot.png)
-![Centralized Notes Repository](https://example.com/images/notes_screenshot.png)
+
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/aced5755-208e-4747-85f5-f57a968d3e33" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/aced5755-208e-4747-85f5-f57a968d3e33" width="200" height="400" />
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/54a565dd-1e77-43a9-9e00-229e96477f2b" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/54a565dd-1e77-43a9-9e00-229e96477f2b" width="200" height="400" />
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/0670d770-6eb7-4d27-b663-ddbb88e93d3f" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/0670d770-6eb7-4d27-b663-ddbb88e93d3f" width="200" height="400" />
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/f20dfef9-53d8-4c05-b938-75f6695396fa" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/f20dfef9-53d8-4c05-b938-75f6695396fa" width="200" height="400" />
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/eeee6f51-0f45-48c5-b281-8790e198f28e" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/eeee6f51-0f45-48c5-b281-8790e198f28e" width="200" height="400" />
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/137ba8b2-1cc3-41bd-85b2-639cc9337099" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/137ba8b2-1cc3-41bd-85b2-639cc9337099" width="200" height="400" />
+<img src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/12a591f8-162d-4c14-8558-3b687e9833ae" data-canonical-src="https://github.com/dj755095/DiplomaNet-Study-Application/assets/83531628/12a591f8-162d-4c14-8558-3b687e9833ae" width="200" height="400" />
+
 
 ## Getting Started
 
